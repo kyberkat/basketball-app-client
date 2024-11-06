@@ -5,11 +5,8 @@
 
 1. Configure environmental variables.
 
-NEXT_PUBLIC_TEST_ACCOUNT is set to true by default, clicking on login button gives access to protected pages. 
-
-Set to false to toggle sessions and auth testing. Auth is set to STRAPI default auth endpoint.
-
-API_token and NEXT_PUBLIC_API_TOKEN should be empty unless testing integration between api and client via an API token.
+NEXT_PUBLIC_TEST_ACCOUNT is set to true by default, clicking on login button gives access to protected pages.
+The settings tab is special page that only shows when users are logged in.
 
 PORT set to 3001
 
