@@ -24,6 +24,8 @@ An example of the client can be seen here:
 
 UI/UX reponsive improvements such as enclosing elements in suspense tags
 
+complete dynamic pages for each player
+
 improve time til first byte
 
 scaling considerations: load balancing
