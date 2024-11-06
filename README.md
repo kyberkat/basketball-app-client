@@ -3,7 +3,7 @@
 
 # Quick Start
 
-1. Configure environmental variables.
+1. Configure environmental variables in .env.example and rename to .env
 
 NEXT_PUBLIC_TEST_ACCOUNT is set to true by default, clicking on login button gives access to protected pages.
 The settings tab is special page that only shows when users are logged in.
