@@ -24,6 +24,9 @@ next dev
 
 An example of the client can be seen here:
 
+www.kyberkat.com:3000
+If the link is not working, feel free to contact me to start instance.
+
 # What's next?
 
 UI/UX reponsive improvements such as enclosing elements in suspense tags
