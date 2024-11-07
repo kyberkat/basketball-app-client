@@ -1,0 +1,16 @@
+name: Test git actions
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  job_name:
+    runs-on ubuntu-latest
+
+    steps:
+      - name:
+      - name: say hi
+      - run: echo 'hi git actions'
+      
