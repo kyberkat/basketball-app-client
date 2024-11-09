@@ -29,7 +29,7 @@ const LoginForm = () => {
                 if (test === 'true') {
                     login(values.email)
 
-                console.log(test)
+                    console.log(test)
                     router.push('/')
                     resetForm()
                 } else {
@@ -39,8 +39,7 @@ const LoginForm = () => {
                 }
             } else {
                 if (test === 'true') {
-
-    console.log(test)
+                    console.log(test)
                     login(values.email)
                     router.push('/')
                     resetForm()
