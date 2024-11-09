@@ -3,14 +3,13 @@ name: Test git actions
 on:
   push:
     branches:
-      - master
+      - feature
 
 jobs:
   job_name:
     runs-on ubuntu-latest
 
     steps:
-      - name:
-      - name: say hi
+      - name: feature branch push listener
       - run: echo 'hi git actions'
       
