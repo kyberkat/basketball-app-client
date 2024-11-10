@@ -2,7 +2,6 @@ const Page = () => {
     return (
         <div className="mx-[100px] mt-7 flex flex-col gap-4">
             <div className="text-center text-3xl"></div>
-            <div></div>
             <p>With the conclusion of the 2024 NBA finals, the Celtics finally clinched the championship title.</p>
 
             <p>Their journey together was filled with challenges, grit, and hard-fought outcomes.</p>
