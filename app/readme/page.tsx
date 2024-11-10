@@ -29,7 +29,6 @@ const Page = () => {
                 <li>Rate Limiting</li>
                 <li>AppRouter and React Hooks</li>
                 <li>...and more experimental features in the works such as logging, load balancing</li>
-
             </ul>
         </div>
     )
