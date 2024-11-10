@@ -52,8 +52,8 @@ const LoginForm = () => {
             console.log("error fetching auth route")
         }
     }
-    return (
-
+    return
+    (
         session ? (<div></div>)
             : (
                 <div className="lg:w-[300px] lg:mx-auto lg:mt-[100px]">
