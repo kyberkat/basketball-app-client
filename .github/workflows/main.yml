@@ -1,0 +1,13 @@
+name: Alert on feature push
+
+on:
+  push:
+    branches:
+      - feature
+
+jobs:
+  job_name: 
+    runs-on: ubuntu-latest
+    steps:
+      - name: feature branch push listener
+      - run: echo 'hi git actions'
