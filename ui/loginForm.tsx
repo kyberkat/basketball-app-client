@@ -52,6 +52,7 @@ const LoginForm = () => {
             console.log("error fetching auth route")
         }
     }
+
     return
     (
         session ? (<div></div>)
